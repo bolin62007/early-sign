@@ -1,0 +1,15 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/my-mark/my-mark",
+    "pages/rule/rule",
+    "pages/pay-success/pay-success"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "早起打卡领现金",
+    "navigationBarTextStyle":"black"
+  }
+}

@@ -1,0 +1,33 @@
+/* pages/rule/rule.wxss */
+/* page{
+  padding: 30rpx;
+} */
+.icon-img{
+  margin-left: 30rpx;
+  width: 34rpx;
+  height: 34rpx;
+  margin-right: 12rpx; 
+}
+.title{
+  margin-top: 60rpx;
+  margin-bottom: 80rpx;
+  display: flex;
+  align-items: center
+}
+.ctitle{
+  font-size: 34rpx;
+  color: #ff8e42;
+  text-decoration: underline;
+  position: static;
+  background: #ffffff;
+  display: inline;
+  border: none;
+  margin: 0;
+  padding-left: 0;
+}
+.ctitle::after{
+  border: none
+}
+.img{
+  width: 100%;
+}

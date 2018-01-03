@@ -1,0 +1,9 @@
+<!--pages/rule/rule.wxml-->
+<image src='{{ruleSrc1}}' mode='widthFix' class='img'> </image>
+<view class='title'>
+<image src='{{serviceIcon}}'  mode='aspectFit'  class='icon-img'></image>
+<!-- <contact-button> 联系客服</contact-button> -->
+ <button class='ctitle' open-type="contact">联系客服</button> 
+</view>
+<image src='{{ruleSrc2}}' mode='widthFix' class='img'> </image>
+<image src='{{ruleSrc3}}' mode='widthFix' class='img'> </image>
